@@ -1,1 +1,20 @@
-/* Add your rules below */
+.card {
+  width: 300px;
+  height: 400px;
+  padding: 20px; /* space inside the border */
+  border: 3px solid #1e7740; /* the visible frame */
+  margin: 30px auto; /* space outside the element */
+  background-color: #29B960;
+}
+img {
+display: block;
+  margin: auto;
+  width: 100%;
+}
+.descrip {
+  margin-top: 5px;
+}
+* {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 20px;
+}
